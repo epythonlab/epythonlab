@@ -17,12 +17,9 @@ Furthermore, I learned data science and machine learning on Coursera authorized 
    <div align="center"><a href="https://www.linkedin/in/dejenetechane">
   <img align="left" alt="EPYTHON LAB | LinkedIn" width="34px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/linkedin.png"/>
 </a>
-
-   <div align="center"><a href="https://www.youtube.com/c/epythonlab">
+ <div align="center"><a href="https://www.youtube.com/c/epythonlab">
   <img align="left" alt="EPYTHON LAB | Youtube" width="21px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/youtube_social_icon_red.png"/>
 </a>
-
-
 <a href="https://www.facebook.com/epythonlab">
   <img align="left" alt="EPYTHON LAB" width="31px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/facebook.png"/>
 </a>
@@ -32,7 +29,6 @@ Furthermore, I learned data science and machine learning on Coursera authorized 
 
 <br />
 <hr>
-<br />
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=epythonlab&theme=highcontrast&show_icons=true&count_private=true)
 
