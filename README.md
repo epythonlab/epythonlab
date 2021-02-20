@@ -10,6 +10,16 @@ Furthermore, I learned data science and machine learning on Coursera authorized 
 - 👯 I’m looking to collaborate on Kaggle Competition.
 - 💬 Ask me about python, data science, machine learning and relating questions.
 - 📫 You can reach me via the following links and learn more from me.
+- 
+- <a href="https://www.youtube.com/c/epythonlab">
+  <img align="left" alt="EPYTHON LAB | Youtube" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
+</a>
+<a href="https://medium.com/@shinichiokada">
+  <img align="left" alt="Shinichi Okada | Medium" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/>
+</a>
+
+<br />
+<br />
 -   [![youtube]https://www.youtube.com/c/epythonlab/ 
 -   https://www.facebook.com/epythonlab/
 -   https://t.me/epythonlab/
