@@ -10,7 +10,7 @@ Furthermore, I learned data science and machine learning on Coursera authorized 
 - 👯 I’m looking to collaborate on Kaggle Competition.
 - 💬 Ask me about python, data science, machine learning and relating questions.
 - 📫 You can reach me via the following links and learn more from me.
--   []https://www.youtube.com/c/epythonlab/ 
+-   [![youtube]https://www.youtube.com/c/epythonlab/ 
 -   https://www.facebook.com/epythonlab/
 -   https://t.me/epythonlab/
 -   https://datacampethiopia.com/
@@ -21,12 +21,13 @@ Furthermore, I learned data science and machine learning on Coursera authorized 
 
 ## Explore My Repos and get insights
 
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=epythonlab&repo=Coursera_Capstone&show_owner=true)](https://github.com/epythonlab/Coursera_Capstone)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=epythonlab&repo=Coursera_Capstone&show_owner=true)](https://github.com/epythonlab/Coursera_Capstone)
 
-[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=epythonlab&repo=WQU-DS-Unit-1&show_owner=true)](https://github.com/epythonlab/WQU-DS-Unit-1)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=epythonlab&repo=WQU-DS-Unit-1&show_owner=true)](https://github.com/epythonlab/WQU-DS-Unit-1)
 
-[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=epythonlab&repo=Data-Science-Competition&show_owner=true)](https://github.com/epythonlab/Data-Science-Competition)
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=epythonlab&repo=CourserUdacity-Bertelsmann-Projectsa_Capstone&show_owner=true)](https://github.com/epythonlab/Udacity-Bertelsmann-Projects)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=epythonlab&repo=Data-Science-Competition&show_owner=true)](https://github.com/epythonlab/Data-Science-Competition)
 
-[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=epythonlab&repo=HamoyeIntern&show_owner=true)](https://github.com/epythonlab/HamoyeIntern)  
+[![](https://github-readme-stats.vercel.app/api/pin/?username=epythonlab&repo=CourserUdacity-Bertelsmann-Projectsa_Capstone&show_owner=true)](https://github.com/epythonlab/Udacity-Bertelsmann-Projects)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=epythonlab&repo=HamoyeIntern&show_owner=true)](https://github.com/epythonlab/HamoyeIntern)  
 
