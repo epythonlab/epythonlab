@@ -12,10 +12,10 @@ Furthermore, I learned data science and machine learning on Coursera authorized 
 - 📫 You can reach me via the following links and learn more from me.
   
   <div align="center"><a href="https://www.twitter.com/dejenetechane">
-  <img align="left" alt="EPYTHON LAB | Twitter" width="21px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/twitter.png"/>
+  <img align="left" alt="EPYTHON LAB | Twitter" width="31px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/twitter.png"/>
 </a>
    <div align="center"><a href="https://www.linkedin/in/dejenetechane">
-  <img align="left" alt="EPYTHON LAB | LinkedIn" width="21px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/linkedin.png"/>
+  <img align="left" alt="EPYTHON LAB | LinkedIn" width="34px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/linkedin.png"/>
 </a>
 
    <div align="center"><a href="https://www.youtube.com/c/epythonlab">
@@ -24,10 +24,10 @@ Furthermore, I learned data science and machine learning on Coursera authorized 
 
 
 <a href="https://www.facebook.com/epythonlab">
-  <img align="left" alt="EPYTHON LAB" width="21px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/facebook.png"/>
+  <img align="left" alt="EPYTHON LAB" width="31px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/facebook.png"/>
 </a>
 <a href="https://t.me/epythonlab/">
-  <img align="left" alt="EPYTHON LAB" width="21px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/telegram.jpg"/>
+  <img align="left" alt="EPYTHON LAB" width="31px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/telegram.jpg"/>
 </a></div>
 
 <br />
