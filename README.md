@@ -27,7 +27,7 @@ Furthermore, I learned data science and machine learning on Coursera authorized 
   <img align="left" alt="EPYTHON LAB" width="21px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/facebook.png"/>
 </a>
 <a href="https://t.me/epythonlab/">
-  <img align="left" alt="EPYTHON LAB" width="21px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/telegram.jpg"/>
+  <img align="left" alt="EPYTHON LAB" width="21px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/telegram.png"/>
 </a></div>
 
 <br />
