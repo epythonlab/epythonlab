@@ -29,8 +29,9 @@ Furthermore, I learned data science and machine learning on Coursera authorized 
 <a href="https://t.me/epythonlab/">
   <img align="left" alt="EPYTHON LAB" width="31px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/telegram.jpg"/>
 </a></div>
-<hr>
+
 <br />
+<hr>
 <br />
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=epythonlab&theme=highcontrast&show_icons=true&count_private=true)
