@@ -12,14 +12,14 @@ Furthermore, I learned data science and machine learning on Coursera authorized 
 - 📫 You can reach me via the following links and learn more from me.
 
 <a href="https://www.youtube.com/c/epythonlab">
-  <img align="left" alt="EPYTHON LAB | Youtube" width="21px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/facebook.png"/>
+  <img align="left" alt="EPYTHON LAB | Youtube" width="21px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/youtube_social_icon_red.png"/>
 </a>
 
 <a href="https://www.facebook.com/epythonlab">
   <img align="left" alt="EPYTHON LAB" width="21px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/facebook.png"/>
 </a>
 <a href="https://t.me/epythonlab/">
-  <img align="left" alt="EPYTHON LAB" width="21px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/telegram.png"/>
+  <img align="left" alt="EPYTHON LAB" width="21px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/telegram.jpg"/>
 </a>
 
 <br />
@@ -37,7 +37,7 @@ Furthermore, I learned data science and machine learning on Coursera authorized 
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=epythonlab&repo=Data-Science-Competition&show_owner=true)](https://github.com/epythonlab/Data-Science-Competition)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=epythonlab&repo=CourserUdacity-Bertelsmann-Projectsa_Capstone&show_owner=true)](https://github.com/epythonlab/Udacity-Bertelsmann-Projects)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=epythonlab&repo=Udacity-Bertelsmann-Projects&show_owner=true)](https://github.com/epythonlab/Udacity-Bertelsmann-Projects)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=epythonlab&repo=HamoyeIntern&show_owner=true)](https://github.com/epythonlab/HamoyeIntern)  
 
