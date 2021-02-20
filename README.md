@@ -10,8 +10,8 @@ Furthermore, I learned data science and machine learning on Coursera authorized 
 - 👯 I’m looking to collaborate on Kaggle Competition.
 - 💬 Ask me about python, data science, machine learning and relating questions.
 - 📫 You can reach me via the following links and learn more from me.
-
-<a href="https://www.youtube.com/c/epythonlab">
+  
+  <div align="center"><a href="https://www.youtube.com/c/epythonlab">
   <img align="left" alt="EPYTHON LAB | Youtube" width="21px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/youtube_social_icon_red.png"/>
 </a>
 
@@ -20,7 +20,7 @@ Furthermore, I learned data science and machine learning on Coursera authorized 
 </a>
 <a href="https://t.me/epythonlab/">
   <img align="left" alt="EPYTHON LAB" width="21px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/telegram.jpg"/>
-</a>
+</a></div>
 
 <br />
 <br />
