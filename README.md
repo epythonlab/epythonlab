@@ -42,7 +42,7 @@ Furthermore, I learned data science and machine learning on Coursera authorized 
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=epythonlab&repo=Data-Science-Competition&show_owner=true)](https://github.com/epythonlab/Data-Science-Competition)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=epythonlab&repo=Udacity-Bertelsmann-Projects&show_owner=true)](https://github.com/epythonlab/Udacity-Bertelsmann-Projects)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=epythonlab&repo=predictive-analytics-for-business&show_owner=true)](https://github.com/epythonlab/predictive-analytics-for-business)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=epythonlab&repo=HamoyeIntern&show_owner=true)](https://github.com/epythonlab/HamoyeIntern)  
 
