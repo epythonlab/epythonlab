@@ -33,16 +33,3 @@ Furthermore, I learned data science and machine learning on Coursera authorized 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=epythonlab&theme=highcontrast&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=epythonlab&layout=compact)
-
-## Explore My Repos and get insights
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=epythonlab&repo=Coursera_Capstone&show_owner=true)](https://github.com/epythonlab/Coursera_Capstone)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=epythonlab&repo=WQU-DS-Unit-1&show_owner=true)](https://github.com/epythonlab/WQU-DS-Unit-1)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=epythonlab&repo=Data-Science-Competition&show_owner=true)](https://github.com/epythonlab/Data-Science-Competition)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=epythonlab&repo=predictive-analytics-for-business&show_owner=true)](https://github.com/epythonlab/predictive-analytics-for-business)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=epythonlab&repo=HamoyeIntern&show_owner=true)](https://github.com/epythonlab/HamoyeIntern)  
-
