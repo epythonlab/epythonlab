@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Dejene. I have more than 7 years of working expereince in various positions. I worked in Software development for 2 years, assitant lecturer for 6 years, Java coding trainer for 1 year and Data management and analysis for 6 months.
+#### Hi there 👋 I'm Dejene. I have more than 7 years of working expereince in various positions. I have been worked as a Software developer for 2 years, an assitant lecturer for 6 years, Java and Python trainer for 1 year, and Data management and analysis for 6 months.
 
-Furthermore, I learned data science and machine learning on Coursera authorized by IBM, Applied Data science, and Machine Learning and Statisitics authorized by WorlQuant University.
+Furthermore, I have been learnt data science and machine learning on Coursera authorized by IBM, Applied Data science, and Machine Learning and Statisitics authorized by WorlQuant University.
 <!--
 **epythonlab/epythonlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
