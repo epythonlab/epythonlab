@@ -9,20 +9,21 @@ Furthermore, I have learnt data science and machine learning on Coursera authori
 **epythonlab/epythonlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently in between jobs. I'm looking for Sotware Engineering, Data science and Machine Learning opportunities.
-- 🌱 I’m currently learning Data Science and Machine Learning.
+- 🔭 I'm always looking for a challenging job opportunities related to Sotware Engineering, Data science and Machine Learning.
 - 👯 I’m looking to collaborate on Kaggle Competition.
 - 💬 Ask me about python, data science, machine learning and relating questions.
 - 📫 You can reach me via the following links and learn more from me.
   <hr>
  
- <div align="center"><a href="https://www.youtube.com/epythonlab">
+ <div align="center">
+ <a href="https://www.youtube.com/epythonlab">
   <img align="left" alt="EPYTHON LAB | Youtube" width="21px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/youtube_social_icon_red.png"/>
 </a>
 
 <a href="https://t.me/epythonlab/">
   <img align="left" alt="EPYTHON LAB" width="31px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/telegram.jpg"/>
-</a></div>
+</a>
+</div>
 
 <br />
 <hr>
