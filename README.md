@@ -1,12 +1,5 @@
 #### Hi there 👋 I'm the founder of EPYTHON LAB. I have several years of work expereince in various positions. I had worked as a Software developer for 2 years, an assitant lecturer for 6 years, Java and Python trainer for 1 year, and Data management and analysis for 6 months. 
-
-Currenlty, I am working as a freelance Python Developer and trainer online via zoom.
-
-I have graduated in Predictive Analytics for Business Nano Degree on Udacity sponsored by Bertelsmann University. 
-
-Furthermore, I have learnt data science and machine learning on Coursera authorized by IBM, Applied Data science, and Machine Learning and Statisitics authorized by WorlQuant University.
-<!--
-**epythonlab/epythonlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Check my portfolio => https://epythonlab.github.io/myportfolio/
 -->
 
 - 🔭 I'm always looking for a challenging job opportunities related to Sotware Engineering, Data science and Machine Learning.
