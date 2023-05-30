@@ -1,4 +1,4 @@
-#### Hi there 👋 I'm the founder of EPYTHON LAB. I have several years of work expereince in various positions. I had worked as a Software developer for 2 years, an assitant lecturer for 6 years, Java and Python trainer for 1 year, and Data management and analysis for 6 months. 
+#### Hi there 👋 I'm the founder of EPYTHON LAB. I have several years of work expereince in various positions.
 Check my portfolio => https://epythonlab.github.io/myportfolio/
 -->
 
