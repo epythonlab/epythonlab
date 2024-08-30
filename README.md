@@ -40,12 +40,12 @@
 - ✈️ Love traveling and exploring new cultures.
 
 ## 💡 Featured Projects
-### [Project Name](https://github.com/epythonlab/Predictive-analytics-for-business)
+### [Predictive Analytics for Business](https://github.com/epythonlab/Predictive-analytics-for-business)
 **Description:** This project mainly focused on predictive analytics for business. In this project repo, there are 6 different predictive projects you can explore each of them.  
 **Technologies Used:** Python, Tableau, Alteryx.  
 
 
-### [Finacial News and Stock Market Analysis](https://github.com/epythonlab/aim10academy-week1-challenge)
+### [Financial News and Stock Market Analysis](https://github.com/epythonlab/aim10academy-week1-challenge)
 **Description:** Brief description of what the project does.  
 **Technologies Used:** Python, Matplotlib, NLP, etc.  
 **Key Features:**
