@@ -1,5 +1,5 @@
 
-# Hi there 👋, I'm [Asibeh Tenager]
+# Hi there 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/epythonlab?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/epythonlab?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
