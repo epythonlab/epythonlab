@@ -1,7 +1,7 @@
 
 # Hi there 👋, I'm [Asibeh Tenager]
 
-![Profile views](https://gpvc.arturio.dev/epythonlab) ![GitHub followers](https://img.shields.io/github/followers/epythonlab?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/epythonlab?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![GitHub followers](https://img.shields.io/github/followers/epythonlab?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/epythonlab?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ## About Me
 - 🌱 I’m currently working as a **Freelance Data Engineer** at [Epython Lab](https://t.me/epythonlab)
@@ -52,9 +52,6 @@
 - Sentiment Analysis
 - Correlation Analysis
 - Financial Quantitative Analysis
-
-## 📊 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=epythonlab&theme=rogue)
 
 ## 💬 Connect with me!
 Feel free to reach out for collaboration or just a friendly chat!
