@@ -1,7 +1,7 @@
 
 # Hi there 👋, I'm [Asibeh Tenager]
 
-![Profile views](https://gpvc.arturio.dev/your-github-username) ![GitHub followers](https://img.shields.io/github/followers/epythonlab?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/epythonlab?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![Profile views](https://gpvc.arturio.dev/epythonlab) ![GitHub followers](https://img.shields.io/github/followers/epythonlab?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/epythonlab?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ## About Me
 - 🌱 I’m currently working as a **Freelance Data Engineer** at [Epython Lab](https://t.me/epythonlab)
@@ -45,15 +45,15 @@
 **Technologies Used:** Python, Tableau, Alteryx.  
 
 
-### [Another Project](https://github.com/your-github-username/project)
+### [Finacial News and Stock Market Analysis](https://github.com/epythonlab/aim10academy-week1-challenge)
 **Description:** Brief description of what the project does.  
-**Technologies Used:** React, Node.js, MongoDB, etc.  
+**Technologies Used:** Python, Matplotlib, NLP, etc.  
 **Key Features:**
 - Feature 1
 - Feature 2
 
 ## 📊 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-github-username&theme=rogue)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=epythonlab&theme=rogue)
 
 ## 💬 Connect with me!
 Feel free to reach out for collaboration or just a friendly chat!
