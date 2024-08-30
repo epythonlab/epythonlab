@@ -30,13 +30,12 @@
 - 📊 Published a [Research Paper](https://link-to-paper.com) on [topic].
 
 ## 📫 How to reach me
-- [YouTube](https://www.youtube.com/epythonlab)
-- [Telegram](https://t.mem/epythonlab)
-- [Medium](https://medium.com/@epythonlab)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/epythonlab)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.mem/epythonlab)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@epythonlab)
 
 ## 🎨 Fun Facts
-- 🎮 I enjoy gaming and building custom PCs.
-- 🎵 I'm a music enthusiast and play the guitar in my free time.
+- 🎮 I enjoy coding and teaching.
 - ✈️ Love traveling and exploring new cultures.
 
 ## 💡 Featured Projects
