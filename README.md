@@ -46,11 +46,12 @@
 
 
 ### [Financial News and Stock Market Analysis](https://github.com/epythonlab/aim10academy-week1-challenge)
-**Description:** Brief description of what the project does.  
+**Description:** The project is designed to enhance stock market predictions by combining quantitative and qualitative data.  
 **Technologies Used:** Python, Matplotlib, NLP, etc.  
 **Key Features:**
-- Feature 1
-- Feature 2
+- Sentiment Analysis
+- Correlation Analysis
+- Financial Quantitative Analysis
 
 ## 📊 Contribution Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=epythonlab&theme=rogue)
