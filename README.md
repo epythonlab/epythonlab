@@ -40,12 +40,10 @@
 - ✈️ Love traveling and exploring new cultures.
 
 ## 💡 Featured Projects
-### [Project Name](https://github.com/your-github-username/project)
-**Description:** Brief description of what the project does.  
-**Technologies Used:** Python, Flask, SQL, etc.  
-**Key Features:**
-- Feature 1
-- Feature 2
+### [Project Name](https://github.com/epythonlab/Predictive-analytics-for-business)
+**Description:** This project mainly focused on predictive analytics for business. In this project repo, there are 6 different predictive projects you can explore each of them.  
+**Technologies Used:** Python, Tableau, Alteryx.  
+
 
 ### [Another Project](https://github.com/your-github-username/project)
 **Description:** Brief description of what the project does.  
