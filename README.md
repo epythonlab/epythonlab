@@ -1,33 +1,7 @@
-#### Hi there 👋 I'm the founder of EPYTHON LAB. I have several years of work experience in various positions.
-Check my portfolio => https://epythonlab.github.io/myportfolio/
 
+# Hi there 👋, I'm [Asibeh Tenager]
 
-- 🔭 I'm always looking for challenging job opportunities related to Software Engineering, Data Science, and Machine Learning.
-- 👯 I’m looking to collaborate on the Kaggle Competition.
-- 💬 Ask me about Python, data science, machine learning, and related questions.
-- 📫 You can reach me via the following links and learn more from me.
-  <hr>
- 
- <div align="center">
- <a href="https://www.youtube.com/epythonlab">
-  <img align="left" alt="EPYTHON LAB | Youtube" width="21px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/youtube_social_icon_red.png"/>
-</a>
-
-<a href="https://t.me/epythonlab/">
-  <img align="left" alt="EPYTHON LAB" width="31px" src="https://raw.githubusercontent.com/epythonlab/epythonlab/master/telegram.jpg"/>
-</a>
-</div>
-
-<br />
-<hr>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=epythonlab&theme=highcontrast&show_icons=true&count_private=true)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=epythonlab&layout=compact)
-
-# Hi there 👋, I'm [Your Name]
-
-![Profile views](https://gpvc.arturio.dev/your-github-username) ![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/your-github-username?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![Profile views](https://gpvc.arturio.dev/your-github-username) ![GitHub followers](https://img.shields.io/github/followers/epythonlab?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/epythonlab?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ## About Me
 - 🌱 I’m currently working as a **Freelance Data Engineer** at [Epython Lab](https://t.me/epythonlab)
