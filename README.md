@@ -1,10 +1,10 @@
-#### Hi there 👋 I'm the founder of EPYTHON LAB. I have several years of work expereince in various positions.
+#### Hi there 👋 I'm the founder of EPYTHON LAB. I have several years of work experience in various positions.
 Check my portfolio => https://epythonlab.github.io/myportfolio/
 
 
-- 🔭 I'm always looking for a challenging job opportunities related to Sotware Engineering, Data science and Machine Learning.
-- 👯 I’m looking to collaborate on Kaggle Competition.
-- 💬 Ask me about python, data science, machine learning and relating questions.
+- 🔭 I'm always looking for challenging job opportunities related to Software Engineering, Data Science, and Machine Learning.
+- 👯 I’m looking to collaborate on the Kaggle Competition.
+- 💬 Ask me about Python, data science, machine learning, and related questions.
 - 📫 You can reach me via the following links and learn more from me.
   <hr>
  
@@ -30,9 +30,9 @@ Check my portfolio => https://epythonlab.github.io/myportfolio/
 ![Profile views](https://gpvc.arturio.dev/your-github-username) ![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/your-github-username?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ## About Me
-- 🌱 I’m currently working as a **Data Engineer** at [Nova Financial Solutions](https://yourcompanyurl.com)
+- 🌱 I’m currently working as a **Freelance Data Engineer** at [Epython Lab](https://t.me/epythonlab)
 - 💼 I’m passionate about analyzing datasets to gain insights and suggest investment strategies.
-- 🚀 I have experience in Python, SQL, Spark, and cloud technologies like AWS and Azure.
+- 🚀 I have experience in Python, SQL, Web Development, and Teaching.
 - 📚 I'm constantly learning and expanding my knowledge in data science and machine learning.
 
 ## 🛠️ Technologies & Tools
@@ -45,20 +45,20 @@ Check my portfolio => https://epythonlab.github.io/myportfolio/
 ## 🧠 What I'm Learning
 - **Advanced Machine Learning** using TensorFlow and Scikit-learn
 - **Data Visualization** with tools like Power BI and Tableau
-- **Big Data** with Hadoop and Kafka
+- **Generative AI**
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=epythonlab&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epythonlab&layout=compact&theme=radical)
 
 ## 🏆 Achievements
 - 🏅 Winner of [Data Science Hackathon](https://link-to-hackathon.com)
 - 📊 Published a [Research Paper](https://link-to-paper.com) on [topic].
 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-twitter)
-- [Personal Website](https://yourwebsite.com)
+- [YouTube](https://www.youtube.com/epythonlab)
+- [Telegram](https://t.mem/epythonlab)
+- [Medium](https://medium.com/@epythonlab)
 
 ## 🎨 Fun Facts
 - 🎮 I enjoy gaming and building custom PCs.
