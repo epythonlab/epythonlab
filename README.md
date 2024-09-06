@@ -63,6 +63,14 @@
 - Correlation Analysis
 - Financial Quantitative Analysis
 
+### [User Behavior Analysis](https://github.com/epythonlab/10academy-aim-week2-challenge)
+**Description:** focused on performing a comprehensive analysis of user behavior, engagement, experience, and satisfaction in a telecom dataset.  
+**Technologies Used:** Python, Matplotlib, sci-kit-learn, etc.  
+**Key Features:**
+- User Overview Analysis: Analyze handset usage, handset manufacturers, and application usage.
+- User Engagement Analysis: Track user engagement across different applications and cluster users based on engagement metrics.
+- Experience Analytics: Assess user experience based on network parameters and device characteristics.
+- Satisfaction Analysis: Calculate and predict user satisfaction scores based on engagement and experience.
 ## 💬 Connect with me!
 Feel free to reach out for collaboration or just a friendly chat!
 
