@@ -29,7 +29,16 @@
 ## 💡 Featured Projects
 ### [Predictive Analytics for Business](https://github.com/epythonlab/Predictive-analytics-for-business)
 **Description:** This project mainly focused on predictive analytics for business. In this project repo, there are 6 different predictive projects you can explore each of them.  
-**Technologies Used:** Python, Tableau, Alteryx.  
+**Technologies Used:** Python, Tableau, Alteryx.
+
+### [Github Repo Search Tool](https://github.com/epythonlab/github-search-tool)
+**Description:** This project mainly focused on the GitHub Search Tool that provides enhanced search functionality, allowing users to find repositories based on topics, ratings, and programming languages.
+**Technologies Used:** Python, Flask.
+**Key Features:**
+- Search top-rated GitHub repo
+- Search by programming
+- Search by Topic
+
 
 
 ### [Financial News and Stock Market Analysis](https://github.com/epythonlab/aim10academy-week1-challenge)
