@@ -34,6 +34,7 @@
 ### [Github Repo Search Tool](https://github.com/epythonlab/github-search-tool)
 **Description:** This project mainly focused on the GitHub Search Tool that provides enhanced search functionality, allowing users to find repositories based on topics, ratings, and programming languages.
 **Technologies Used:** Python, Flask.
+
 **Key Features:**
 - Search top-rated GitHub repo
 - Search by programming
