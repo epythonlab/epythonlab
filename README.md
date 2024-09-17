@@ -48,19 +48,16 @@
 - Sentiment Analysis
 - Correlation Analysis
 - Financial Quantitative Analysis
-[**Project Report**](https://drive.google.com/file/d/1tT5_5zNlEtnsw3WUMd9OqxrJ9zUb8udS/view?usp=sharing)
+  [**Project Report**](https://drive.google.com/file/d/1tT5_5zNlEtnsw3WUMd9OqxrJ9zUb8udS/view?usp=sharing)
   
 ### [Car Insurance Risk Analysis and Premium Optimization](https://github.com/epythonlab/Car-Insurance-Risk-Analysis-and-Premium-Optimization)
 **Description:** A project analyzing car insurance claim data to optimize premiums and marketing strategies.
-
 **Tools Used:** Python, Matplotlib, Seaborn, sci-kit-learn,scipy, shap etc.  
-
 **Key Features:** 
 - Statistical modeling using Machine Learning Models
 - A/B hypothesis testing
 - Visualization
-  
-[**Project Report**](https://drive.google.com/file/d/1BsMAfxMEa3K5hHSfOhC2jf5oS6mHjqdq/view?usp=sharing)
+  [**Project Report**](https://drive.google.com/file/d/1BsMAfxMEa3K5hHSfOhC2jf5oS6mHjqdq/view?usp=sharing)
 
 ### [User Behavior Analysis](https://github.com/epythonlab/10academy-aim-week2-challenge)
 **Description:** focused on performing a comprehensive analysis of user behavior, engagement, experience, and satisfaction in a telecom dataset.  
@@ -70,7 +67,7 @@
 - User Engagement Analysis: Track engagement across different applications and cluster users based on engagement metrics.
 - Experience Analytics: Assess user experience based on network parameters and device characteristics.
 - Satisfaction Analysis: Calculate and predict user satisfaction scores based on engagement and experience.
-[**Project Report**](https://drive.google.com/file/d/111eb2PTeK_tHcQlirxwidoMdjqVeEUke/view?usp=sharing)
+  [**Project Report**](https://drive.google.com/file/d/111eb2PTeK_tHcQlirxwidoMdjqVeEUke/view?usp=sharing)
 
 ## 🎨 Our Values
 - 📊 **Data-Driven Decisions**: We help businesses leverage their data to make smarter decisions.
