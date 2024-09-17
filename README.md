@@ -41,8 +41,6 @@
 - Search by programming
 - Search by Topic
 
-
-
 ### [Financial News and Stock Market Analysis](https://github.com/epythonlab/aim10academy-week1-challenge)
 **Description:** The project is designed to enhance stock market predictions by combining quantitative and qualitative data.  
 **Technologies Used:** Python, Matplotlib, NLP, etc.  
@@ -50,6 +48,14 @@
 - Sentiment Analysis
 - Correlation Analysis
 - Financial Quantitative Analysis
+  
+### [Car Insurance Risk Analysis and PremiumOptimization](https://github.com/epythonlab/Car-Insurance-Risk-Analysis-and-Premium-Optimization)
+**Description:** A project analyzing car insurance claim data to optimize premiums and marketing strategies.
+**Tools Used:** Python, Matplotlib, Seaborn, sci-kit-learn,scipy, shap etc.  
+**Key Features:** 
+- Statistical modeling using Machine Learning Models
+- A/B hypothesis testing
+- Visualization
 
 ### [User Behavior Analysis](https://github.com/epythonlab/10academy-aim-week2-challenge)
 **Description:** focused on performing a comprehensive analysis of user behavior, engagement, experience, and satisfaction in a telecom dataset.  
