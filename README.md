@@ -58,6 +58,7 @@
 - Statistical modeling using Machine Learning Models
 - A/B hypothesis testing
 - Visualization
+**Project Report**[https://drive.google.com/file/d/1BsMAfxMEa3K5hHSfOhC2jf5oS6mHjqdq/view?usp=sharing]
 
 ### [User Behavior Analysis](https://github.com/epythonlab/10academy-aim-week2-challenge)
 **Description:** focused on performing a comprehensive analysis of user behavior, engagement, experience, and satisfaction in a telecom dataset.  
