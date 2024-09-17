@@ -49,9 +49,11 @@
 - Correlation Analysis
 - Financial Quantitative Analysis
   
-### [Car Insurance Risk Analysis and PremiumOptimization](https://github.com/epythonlab/Car-Insurance-Risk-Analysis-and-Premium-Optimization)
+### [Car Insurance Risk Analysis and Premium Optimization](https://github.com/epythonlab/Car-Insurance-Risk-Analysis-and-Premium-Optimization)
 **Description:** A project analyzing car insurance claim data to optimize premiums and marketing strategies.
+
 **Tools Used:** Python, Matplotlib, Seaborn, sci-kit-learn,scipy, shap etc.  
+
 **Key Features:** 
 - Statistical modeling using Machine Learning Models
 - A/B hypothesis testing
