@@ -32,7 +32,7 @@
 **Technologies Used:** Python, Tableau, Alteryx.
 
 ### [Github Repo Search Tool](https://github.com/epythonlab/github-search-tool)
-**Description:** This project mainly focused on the GitHub Search Tool that provides enhanced search functionality, allowing users to find repositories based on topics, ratings, and programming languages.
+**Description:** This project mainly focused on the GitHub Search Tool, which provides enhanced search functionality and allows users to find repositories based on topics, ratings, and programming languages.
 **Technologies Used:** Python, Flask.
 **Key Features:**
 - Search top-rated GitHub repo
@@ -40,7 +40,7 @@
 - Search by Topic
 
 ### [Financial News and Stock Market Analysis](https://github.com/epythonlab/aim10academy-week1-challenge)
-**Description:** The project is designed to enhance stock market predictions by combining quantitative and qualitative data.  
+**Description:** The project is designed to enhance stock market predictions by combining quantitative and qualitative data.
 **Technologies Used:** Python, Matplotlib, NLP, etc.  
 **Key Features:**
 - Sentiment Analysis
@@ -49,7 +49,7 @@
 [**Project Report**](https://drive.google.com/file/d/1tT5_5zNlEtnsw3WUMd9OqxrJ9zUb8udS/view?usp=sharing)
 
 ### [Rossmann Pharma Sales Prediction](https://github.com/epythonlab/rossmann-pharma-sales-prediction)
-**Description:** A machine learning solution to forecast sales for Rossmann Pharmaceuticals' stores across various cities six weeks in advance. Factors like promotions, competition, holidays, seasonality, and locality are considered for accurate predictions. The project structure is organized to support reproducible and scalable data processing, modeling, and visualization. 
+**Description:** A machine learning solution to forecast sales for Rossmann Pharmaceuticals' stores across various cities six weeks in advance. Factors like promotions, competition, holidays, seasonality, and locality are considered for accurate predictions. The project structure is organized to support reproducible and scalable data processing, modeling, and visualization.
 **Tools Used:** Python, Matplotlib, Seaborn, Tensorflow Scikitlearn, etc.  
 **Key Features:**
 - Customer Behavior Analysis(EDA)
@@ -59,7 +59,7 @@
 [**Project Report**](https://drive.google.com/file/d/1tT5_5zNlEtnsw3WUMd9OqxrJ9zUb8udS/view?usp=sharing)
   
 ### [Car Insurance Risk Analysis and Premium Optimization](https://github.com/epythonlab/Car-Insurance-Risk-Analysis-and-Premium-Optimization)
-**Description:** A project analyzing car insurance claim data to optimize premiums and marketing strategies.
+**Description:** A project analyzing car insurance claims data to optimize premiums and marketing strategies.
 **Tools Used:** Python, Matplotlib, Seaborn, sci-kit-learn,scipy, shap etc.  
 **Key Features:** 
 - Statistical modeling using Machine Learning Models
@@ -68,7 +68,7 @@
 [**Project Report**](https://drive.google.com/file/d/1BsMAfxMEa3K5hHSfOhC2jf5oS6mHjqdq/view?usp=sharing)
 
 ### [User Behavior Analysis](https://github.com/epythonlab/10academy-aim-week2-challenge)
-**Description:** focused on performing a comprehensive analysis of user behavior, engagement, experience, and satisfaction in a telecom dataset.  
+**Description:** focused on comprehensively analyzing user behavior, engagement, experience, and satisfaction in a telecom dataset.  
 **Technologies Used:** Python, Matplotlib, sci-kit-learn, etc.  
 **Key Features:**
 - User Overview Analysis: Analyze handset usage, manufacturers, and application usage.
