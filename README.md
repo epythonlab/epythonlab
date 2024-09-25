@@ -59,8 +59,8 @@
 - Customer Behavior Analysis(EDA)
 - Data Preprocessing(Feature Engineering)
 - Sales Prediction(RandomForestRegressor)
-- Sales Forecasting using Deep Learning Model
-[**Project Report**](https://drive.google.com/file/d/1tT5_5zNlEtnsw3WUMd9OqxrJ9zUb8udS/view?usp=sharing)
+- Sales Forecasting using a Deep Learning Model
+[**Project Report**](https://drive.google.com/file/d/1m-rWuADL_9nMiitxRzAzZjHxz2Pqp58-/view?usp=sharing)
   
 ### [Car Insurance Risk Analysis and Premium Optimization](https://github.com/epythonlab/Car-Insurance-Risk-Analysis-and-Premium-Optimization)
 **Description:** A project analyzing car insurance claims data to optimize premiums and marketing strategies.
