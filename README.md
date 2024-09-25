@@ -29,11 +29,13 @@
 ## 💡 Featured Projects
 ### [Predictive Analytics for Business](https://github.com/epythonlab/Predictive-analytics-for-business)
 **Description:** This project mainly focused on predictive analytics for business. In this project repo, there are 6 different predictive projects you can explore each of them.  
-**Technologies Used:** Python, Tableau, Alteryx.
+
+**Tools Used:** Python, Tableau, Alteryx.
 
 ### [Github Repo Search Tool](https://github.com/epythonlab/github-search-tool)
 **Description:** This project mainly focused on the GitHub Search Tool, which provides enhanced search functionality and allows users to find repositories based on topics, ratings, and programming languages.
-**Technologies Used:** Python, Flask.
+
+**Tools Used:** Python, Flask.
 **Key Features:**
 - Search top-rated GitHub repo
 - Search by programming
@@ -41,7 +43,8 @@
 
 ### [Financial News and Stock Market Analysis](https://github.com/epythonlab/aim10academy-week1-challenge)
 **Description:** The project is designed to enhance stock market predictions by combining quantitative and qualitative data.
-**Technologies Used:** Python, Matplotlib, NLP, etc.  
+
+**Tools Used:** Python, Matplotlib, NLP, etc.  
 **Key Features:**
 - Sentiment Analysis
 - Correlation Analysis
@@ -50,6 +53,7 @@
 
 ### [Rossmann Pharma Sales Prediction](https://github.com/epythonlab/rossmann-pharma-sales-prediction)
 **Description:** A machine learning solution to forecast sales for Rossmann Pharmaceuticals' stores across various cities six weeks in advance. Factors like promotions, competition, holidays, seasonality, and locality are considered for accurate predictions. The project structure is organized to support reproducible and scalable data processing, modeling, and visualization.
+
 **Tools Used:** Python, Matplotlib, Seaborn, Tensorflow Scikitlearn, etc.  
 **Key Features:**
 - Customer Behavior Analysis(EDA)
@@ -60,6 +64,7 @@
   
 ### [Car Insurance Risk Analysis and Premium Optimization](https://github.com/epythonlab/Car-Insurance-Risk-Analysis-and-Premium-Optimization)
 **Description:** A project analyzing car insurance claims data to optimize premiums and marketing strategies.
+
 **Tools Used:** Python, Matplotlib, Seaborn, sci-kit-learn,scipy, shap etc.  
 **Key Features:** 
 - Statistical modeling using Machine Learning Models
@@ -69,7 +74,8 @@
 
 ### [User Behavior Analysis](https://github.com/epythonlab/10academy-aim-week2-challenge)
 **Description:** focused on comprehensively analyzing user behavior, engagement, experience, and satisfaction in a telecom dataset.  
-**Technologies Used:** Python, Matplotlib, sci-kit-learn, etc.  
+
+**Tools Used:** Python, Matplotlib, sci-kit-learn, etc.  
 **Key Features:**
 - User Overview Analysis: Analyze handset usage, manufacturers, and application usage.
 - User Engagement Analysis: Track engagement across different applications and cluster users based on engagement metrics.
