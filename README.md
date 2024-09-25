@@ -47,6 +47,16 @@
 - Correlation Analysis
 - Financial Quantitative Analysis
 [**Project Report**](https://drive.google.com/file/d/1tT5_5zNlEtnsw3WUMd9OqxrJ9zUb8udS/view?usp=sharing)
+
+### [Rossmann Pharma Sales Prediction](https://github.com/epythonlab/rossmann-pharma-sales-prediction)
+**Description:** A machine learning solution to forecast sales for Rossmann Pharmaceuticals' stores across various cities six weeks in advance. Factors like promotions, competition, holidays, seasonality, and locality are considered for accurate predictions. The project structure is organized to support reproducible and scalable data processing, modeling, and visualization. 
+**Tools Used:** Python, Matplotlib, Seaborn, Tensorflow Scikitlearn, etc.  
+**Key Features:**
+- Customer Behavior Analysis(EDA)
+- Data Preprocessing(Feature Engineering)
+- Sales Prediction(RandomForestRegressor)
+- Sales Forecasting using Deep Learning Model
+[**Project Report**](https://drive.google.com/file/d/1tT5_5zNlEtnsw3WUMd9OqxrJ9zUb8udS/view?usp=sharing)
   
 ### [Car Insurance Risk Analysis and Premium Optimization](https://github.com/epythonlab/Car-Insurance-Risk-Analysis-and-Premium-Optimization)
 **Description:** A project analyzing car insurance claim data to optimize premiums and marketing strategies.
