@@ -40,6 +40,17 @@
 - Machine Learn Model(Predicting Customer Risk)
 - [Report](https://drive.google.com/file/d/1uHfbQgn_aJbqBMEMdRtDFrirHN3BxLR7/view?usp=sharing)
   
+### [Amharic NER-LLM Model](https://github.com/epythonlab/amharic-telegram-ecommerce-entity-extraction)
+**Description:** Building a real-time data ingestion and entity extraction pipeline for Amharic messages from Ethiopian e-commerce Telegram channels. The system leverages fine-tuned Large Language Models (LLMs) to identify key business entities such as product names, prices, and locations. The extracted information is used to populate a centralized platform for EthioMart, aiming to streamline e-commerce activities in Ethiopia by consolidating decentralized Telegram channels into a unified hub. The project also includes handling Amharic-specific linguistic features and evaluating model performance for Named Entity Recognition (NER).
+
+**Tools Used:** Python, Flask, Sklearn, Visualization Tools, Deep Learning
+
+**Key Features:**
+- Extract Amharic Telegram Messages(E-commerce channels)
+- Labeling the extracting messages(NER)
+- Train the model using Deep Learning(LLM)
+- [Report](https://drive.google.com/file/d/1F-GSaDif56-sAzwCFQUVw1wQgfAHT0Hx/view?usp=drive_link))
+  
 ### [Predictive Analytics for Business](https://github.com/epythonlab/Predictive-analytics-for-business)
 **Description:** This project mainly focused on predictive analytics for business. In this project repo, there are 6 different predictive projects you can explore each of them.  
 
