@@ -26,6 +26,16 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.mem/epythonlab)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@epythonlab)
 
+### [Credit Scoring Model](https://github.com/epythonlab/bati-bank-credit-scoring)
+**Description:** A machine learning model developed to predict credit risk and assign credit scores, supporting data-driven lending decisions for Bati Bank's Buy-Now-Pay-Later (BNPL) service in collaboration with an eCommerce platform.
+
+**Tools Used:** Python, Flask, Sklearn, 
+**Key Features:**
+- Exploratory Analysis
+- RFM Model Development(Customer Risk Classification)
+- Machine Learn Model(Predicting Customer Risk)
+- [Report](https://drive.google.com/file/d/1uHfbQgn_aJbqBMEMdRtDFrirHN3BxLR7/view?usp=sharing)
+
 ## 💡 Featured Projects
 ### [Predictive Analytics for Business](https://github.com/epythonlab/Predictive-analytics-for-business)
 **Description:** This project mainly focused on predictive analytics for business. In this project repo, there are 6 different predictive projects you can explore each of them.  
