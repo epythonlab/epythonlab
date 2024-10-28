@@ -40,6 +40,20 @@
 - Machine Learn Model(Predicting Customer Risk)
 - [Report](https://drive.google.com/file/d/1uHfbQgn_aJbqBMEMdRtDFrirHN3BxLR7/view?usp=sharing)
   
+  ### [Fraud Detection](https://github.com/epythonlab/fraud-detection)
+**Description:** This project leverages machine learning to detect fraudulent transactions in e-commerce and banking, aiding in proactive security and risk management. The goal is to provide a robust fraud detection pipeline with explainability, deployment, and dashboard visualization for actionable insights.
+
+**Tools Used:** Python, Flask, Sklearn, Visualization Tools, Docker, MLflow
+
+**Key Features**
+- Data Analysis & Preprocessing: Handling missing values, data cleaning, and feature engineering for fraud detection.
+- Model Building & Training: Comparison of multiple models, including deep learning architectures (CNN, RNN, LSTM).
+- Explainability: Interpretation using SHAP and LIME for feature influence insights.
+- Deployment: API service for real-time fraud predictions via Flask, Dockerized for scalability.
+- Dashboard: Interactive visualization of fraud insights using Dash.
+
+- [Report](https://drive.google.com/file/d/1X6gPDgqvUHzct_gxw0p0XHB6vX-GpLaz/view?usp=sharing)
+  
 ### [Amharic NER-LLM Model](https://github.com/epythonlab/amharic-telegram-ecommerce-entity-extraction)
 **Description:** Building a real-time data ingestion and entity extraction pipeline for Amharic messages from Ethiopian e-commerce Telegram channels. The system leverages fine-tuned Large Language Models (LLMs) to identify key business entities such as product names, prices, and locations. The extracted information is used to populate a centralized platform for EthioMart, aiming to streamline e-commerce activities in Ethiopia by consolidating decentralized Telegram channels into a unified hub. The project also includes handling Amharic-specific linguistic features and evaluating model performance for Named Entity Recognition (NER).
 
